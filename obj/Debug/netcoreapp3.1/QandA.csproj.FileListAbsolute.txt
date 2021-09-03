@@ -1,9 +1,4 @@
 C:\Users\woojo\source\repos\QandA\bin\Debug\netcoreapp3.1\appsettings.Development.json
-C:\Users\woojo\source\repos\QandA\bin\Debug\netcoreapp3.1\frontend\.eslintrc.json
-C:\Users\woojo\source\repos\QandA\bin\Debug\netcoreapp3.1\frontend\package-lock.json
-C:\Users\woojo\source\repos\QandA\bin\Debug\netcoreapp3.1\frontend\package.json
-C:\Users\woojo\source\repos\QandA\bin\Debug\netcoreapp3.1\frontend\public\manifest.json
-C:\Users\woojo\source\repos\QandA\bin\Debug\netcoreapp3.1\frontend\tsconfig.json
 C:\Users\woojo\source\repos\QandA\bin\Debug\netcoreapp3.1\QandA.exe
 C:\Users\woojo\source\repos\QandA\bin\Debug\netcoreapp3.1\QandA.deps.json
 C:\Users\woojo\source\repos\QandA\bin\Debug\netcoreapp3.1\QandA.runtimeconfig.json
